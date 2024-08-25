@@ -1,0 +1,152 @@
+[
+    {
+        "id": "celular1",
+        "titulo": "Celular 1",
+        "imagen": "./img/celulares/celular1.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "celular2",
+        "titulo": "Celular 2",
+        "imagen": "./img/celulares/celular2.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "celular3",
+        "titulo": "Celular 3",
+        "imagen": "./img/celulares/celular3.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "celular4",
+        "titulo": "Celular 4",
+        "imagen": "./img/celulares/celular4.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "celular5",
+        "titulo": "Celular 5",
+        "imagen": "./img/celulares/celular5.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "tablet1",
+        "titulo": "Tablet 1",
+        "imagen": "./img/tablets/tablet1.jpg",
+        "categoria": {
+            "nombre": "Tablets",
+            "id": "tablets"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "tablet2",
+        "titulo": "Tablet 2",
+        "imagen": "./img/tablets/tablet2.jpg",
+        "categoria": {
+            "nombre": "Tablets",
+            "id": "tablets"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "tablet3",
+        "titulo": "Tablet 3",
+        "imagen": "./img/tablets/tablet3.jpg",
+        "categoria": {
+            "nombre": "Tablets",
+            "id": "tablets"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "tablet4",
+        "titulo": "Tablet 4",
+        "imagen": "./img/tablets/tablet4.jpg",
+        "categoria": {
+            "nombre": "Tablets",
+            "id": "tablets"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "tablet5",
+        "titulo": "Tablet 5",
+        "imagen": "./img/tablets/tablet5.jpg",
+        "categoria": {
+            "nombre": "Tablets",
+            "id": "tablets"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "tv1",
+        "titulo": "TV 1",
+        "imagen": "./img/tv/tv1.jpg",
+        "categoria": {
+            "nombre": "TV",
+            "id": "tv"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "tv2",
+        "titulo": "TV 2",
+        "imagen": "./img/tv/tv2.jpg",
+        "categoria": {
+            "nombre": "TV",
+            "id": "tv"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "tv3",
+        "titulo": "TV 3",
+        "imagen": "./img/tv/tv3.jpg",
+        "categoria": {
+            "nombre": "TV",
+            "id": "tv"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "tv4",
+        "titulo": "TV 4",
+        "imagen": "./img/tv/tv4.jpg",
+        "categoria": {
+            "nombre": "TV",
+            "id": "tv"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "tv5",
+        "titulo": "TV 5",
+        "imagen": "./img/tv/tv5.jpg",
+        "categoria": {
+            "nombre": "TV",
+            "id": "tv"
+        },
+        "precio": 5000
+    }
+]
